@@ -1,0 +1,21 @@
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "npm i&&node server.js"
+  },
+  "dependencies": {
+    "express": "",
+    "discord.js": "",    "to-zalgo": "",
+    "fs": "",
+    "ytdl-core": "",
+    "ffmpeg": "",
+    "@discordjs/opus": "",
+    "fluent-ffmpeg": "",
+    "simple-youtube-api": "",
+    "quick.db": ""
+  },
+  "engines": {
+    "node": "11.x"
+  },
+  "license": "MIT"
+}

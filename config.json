@@ -1,0 +1,6 @@
+{
+    "prefix": "j!", // bot prefix [string]
+    "token": "", // bot token [string]
+    "status": "", // bot status [string]
+    "admin": [] // Id's of bot administrator(access to admin commands) [array]
+}
